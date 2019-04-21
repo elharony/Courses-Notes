@@ -116,3 +116,98 @@ In other words;
 - **Fundamentals:** Very long lasting, rarely become obsolete and it’s transferrable
 - **Information:** The exact opposite. Changes frequently and tends to get obsolete very quickly. Learning a technology is not a one-time investment, it’s an on-going commitment, to stay updated!
 - **Skills:** Something in-between. Skills focus on Fundamentals, last long. Skills focus on Information/Technology doesn’t last long.
+
+### The Three Branches of Knowledge
+**Soft Skills** are often ignored by Developers. In fact, it’s the rarest skills to be obsolete, on the contrary - It evolves over time. So, it worth every minute of your time!
+
+Three Branches of Knowledge are:
+- Technical
+- Business & Finance
+- Leadership & Management
+
+## Part 3: Knowledge, Skills, and Practice
+If you want to know something, the challenge isn’t to "Find" information, it’s to "Filter" information!
+
+### Knowledge, Skills, and Practice
+**_[Didn't understand this part]_** The "Drunken Sailor" problem is a classic example problem in Computer Science typically used to demonstrate the "Monte Carlo" method - Solving a problem through simulation.
+
+### The Nature of Schools
+Academic Professors are experts on the "Fundamentals" track, so don’t expect to get the latest technology information from them!
+
+The school gives you:
+- Fundamentals
+- Information
+- Skills
+- Curation
+- Support
+- Certification
+- Expertise
+
+Basically, the schools  "ilters" the information for you…
+
+Now… In the Information Age, you can get all the previous benefits without a school. Let’s explain the alternatives for each aspect of the previously mentioned aspects.
+
+### Where do you go for Curation?
+- Where do you start?
+- Learn prerequisites
+- Read books; Its content is curated by the author - In a particular order.
+- First step; Order 1:2 beginners book!
+- Online Courses: Put make sure to get high-standards content
+- Search University Web sites for more detailed course description, and lesson plans
+- Industry Certification; Tends to focus on specific topics regardless of its fundamentals
+
+### Where do you go for Knowledge?
+- Books are usually good and worth reading, it also has a great curation
+- Video Courses aren’t usually good… But try to find & go for the best.
+- Blogs lack curation
+- Product Reference Documentation is often the "Gold Standard" for information on a technology… There are some limitations, or even so many unnecessary docs, and it might have incorrect info in the documentation, report them!
+- School teachers suffer from staying up-to-date with technologies, just like you
+- Hire an expert to teach you
+- Attend conferences, staying updated with latest conferences
+
+
+### Where do you go for Skills?
+- Skills are where the real money lies
+- Practice makes perfect… You can’t achieve competence without practice
+- There’s no substitute for hands-on experience. And no excuse for not getting it. Following a tutorial or walkthrough isn’t enough, you HAVE TO SOLVE PROBLEMS ON YOUR OWN!
+- Curiosity & Desire to win will help you create better products with fewer lines of code. Don’t limit your attention to a course curriculum.
+
+You learn to solve problems, by solving problems. If you don’t have problems, use a website like StackOverflow and help to fix someone else’ problem… Don’t check the answers, only the question, and try to fix it on your own & implement the solution you come up with!
+
+Also, Open Source Contributing is a great way to solve problems and highlight yourself, it’s your NEW RESUME!
+
+### Where do you go for Support?
+- Learning with others / Study Group
+- Find A Mentor/Teacher
+- Training at Work
+- Online Community is great as well
+
+### Where do you go for Gain Expertise?
+- The more knowledge, information, and Skills you have!
+- Look for questions that “don’t” have answers yet.
+- Figure out how to fix an unknown problem, argue about the best way to do X
+
+### Where do you go for Certification?
+- Why you need certifications?
+    - You can’t explain all your skills in your CV
+    - Even if you did, the people who read it won’t understand your skills
+    - It proves & defines a specific Domain Competence
+    - A commitment to keep your certification valid with every release (Re-take it yearly for example)
+- Who issues the certification? 
+- For consultants; It helps them to get more clients & charge more (Microsoft Certifications for example)
+- Certifications are less valuable when the demand is high. But are very good during down-times, when the opportunities are very low.
+
+If your employers don’t care about it, or you’ve your own career path (startup) you mightn’t need it.
+
+There are other types of certifications:
+- Write a book
+- Open-Source Project
+- Accomplishments
+
+Should you get certified or not? It depends.
+
+Find what certifications available in your career, do employers ask for them, worth the money/time and the commitment? If so, decide & plan your path to get it, and go for it.
+
+
+### Where do you go for Fun?
+Take the time & Play around other technologies!
