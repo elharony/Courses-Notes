@@ -94,7 +94,7 @@ Competent:
 Expert:
 - Experimentation
 - Research
-- Perseverance (It’s very hard to “stay” an expert)
+- Perseverance (It’s very hard to "stay" an expert)
 - Good for authors, keynote speakers, consultants.
 - Passionate about a specific technology, not a strategic choice!
 
@@ -184,7 +184,7 @@ Also, Open Source Contributing is a great way to solve problems and highlight yo
 
 ### Where do you go for Gain Expertise?
 - The more knowledge, information, and Skills you have!
-- Look for questions that “don’t” have answers yet.
+- Look for questions that "don’t" have answers yet.
 - Figure out how to fix an unknown problem, argue about the best way to do X
 
 ### Where do you go for Certification?
@@ -211,3 +211,96 @@ Find what certifications available in your career, do employers ask for them, wo
 
 ### Where do you go for Fun?
 Take the time & Play around other technologies!
+
+## Part 4: What do you want to learn today?
+Which track do you want to focus? How far do I need to go?
+
+Focus on the Fundamentals Track.
+
+Ex.: What to focus on, to becoming A WordPress Developer?
+- **Fundamentals:** Domain COnfiguration, DNS, Apache or IIS, URL Rewrite, HTML, JS, PHP, MySQL
+- **Information:** WordPress COnfiguration, Common Plugins/Themes, Wordpress Architecture, Database, and API
+- **Skills:** Bring up a site (start to finish), Create or modify WordPress Plugin
+
+The more fundamentals you have, the faster you find a "good" solution!
+
+> Don’t invest heavily in knowledge/skills you’ll only use once or twice...
+
+Let’s create a Learning Plan:
+
+### Learning Fundamentals
+- What are the fundamentals for your domain? 
+- How much of a beginner you’re?
+
+Ex.: PHP/MySQL are the fundaments for WordPress (Information)
+
+Hold on…
+- Variables & Basic Programming are the fundaments for PHP/MySQL (Information)
+
+So... **How to know the fundamentals?** Look for the curations of Universities Certificates, … etc. Make sure to choose the fundamentals that appear on - almost - all curations.
+
+Also, Books & Online Courses are great to find curation - Just check the table of contents!
+
+#### HOMEWORK
+- Pick a domain
+- Find two or three schools
+- Identify available certification
+- Identify courses/topics/requirements for certification
+- Find several books in the domain
+- Find one or more Pluralsight courses in the domain
+- Identify topics that they have in common
+
+Don’t use one course/book to seek information from, try several options!
+
+### Acquiring Information
+- Information goes obsolete very quickly
+- Not a source for curation
+- Filter "Google Search" results, any article older than a year should be suspected
+- Buy a book, Take a class, Attend a user group, … etc. To grasp the most recent information
+- You don’t need to worry about creating a detailed plan on this track (information) as you’ll often learn as you discover
+
+### Gaining Skills
+- Get the necessary equipment, Install the development platform, .. etc.
+- Tutorials are good, but not enough to gain real skills. Only watch the MINIMAL tutorials to get started.
+- Experiment - Playaround, A LOT
+- Stay curious, and build some stuff
+
+Here, on StackOverflow; Don’t read the answer, or answer a question, just implement the solution!
+
+Solving problems will force you to learn more information, and - definitely - get back to some fundamental topics. Also, consider doing freelance/consultants work!
+
+### Becoming an Expert
+In most cases, it "happens to you" not something you plan
+- Keep learning & stay updated
+- Answer questions
+- Write or Blog
+- Contribute to projects
+- Attend & Speak at meetups/conferences
+- Do a Pluralsight Course!
+
+> **The more visible you’re, the more opportunities come your way.**
+
+Remember; Being "expert" in a subject is A LOT of work, and it’s not necessary to help you get paid ANY better, than just staying competent!
+
+### Executing on Your Learning Plan
+The common pattern is:
+
+- Start with fundamentals
+- Build on them to learn specific information
+- Find ways to practice and build skills
+
+**It’s ABSOLUTELY wrong, you should instead:**
+- As soon as you grasp the fundamental concepts
+- Seek out how you can use it
+- Keep practicing
+
+Remember how you started to learn as a kid. You didn’t FULLLY understand the fundamentals, get all information, … etc. It’s much more fun to jump & start doing things than sitting in boring lectures and lose your excitement!
+
+![Skills Order](https://user-images.githubusercontent.com/16986422/56464746-b31f8900-63f0-11e9-9d68-fa6a87d15381.png)
+
+> Skills is what pays the bills, and it’s the fun part. So, it must take A LOT of time from you.
+
+### Conclusion
+The one consistent thing is that; I have done Software Development the entire time. I write code, and people pay for it - Consistency is the key here!
+
+> **Time is the real cost of learning.**
