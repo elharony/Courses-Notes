@@ -7,7 +7,7 @@ Agenda:
 - Part 5: Making Things Modular
 - Part 6: Programming in the Real World
 
-## Introduction
+## Part 1: Introduction
 Most courses start by teaching you a specific `Programming Language`, but before getting any of them - We need to learn more about `Programming` in general.
 
 It's not about what Programming Language or Technology you use, it's all about **how you think**!
@@ -86,3 +86,28 @@ Example:
 - `01000000` in binary, is `40` in hex
 
 `Hexdecimal` have 2 digits (0 through 9) and (A through F)
+
+## Part 2: The Rules of Programming Languages
+`Syntax` is the rules of a programming language. Rules aren't guidelines, YOU MUST follow them!
+
+- Case Sensitivity; Almost all programming languages are `Case Sensitive`
+- Statements (Write & End each instruction); Specific, Small, Self-Contained Instructions
+- Whitespaces; Most programming languages don't care about it. But, it's very important for us - programmers - as identation, and it makes the code readable!
+- Comments; Write comments even if you think it's only you who will read this code. Remember, not all code needs to be commented. Some programmers use comments as a way of `Reminding`! Ex.: `TODO: display custom graphic here`. Moreover, it's a great way to `Comment Out` your code, instead of deleting them.
+- Keywords; `Java` has around `50 Keywords` only. All languages have a few keywords (Reserved Keywords for the Language). That's why we `Define our words` (i.e. Create Variables, Functions, Classes). So, a `Keyword` has a pre-defined and fixed meaning in the Programming Language.
+
+### Using `Pseudocode`
+It's a way of communicating, regardless what programming language you're using.
+
+> Pseudocode isn't only for Beginners.
+
+So many people underestimate Pseudocode and want to jump into the `Source Code`. Basically, The Pseudocode is all about how you think, and visualize your thinking quicker, instead of waiting infront of an editor asking yourself what I should be writing now?
+
+It's not an actual language, there's no right/wrong here.
+
+Why to use it?
+- Communicate with non-programmers
+- GREAT for planning; As it helps you get unstuck, and think of the next step
+- Make progress & Fix a problem before actually writing any code
+- Programming Languages/Syntax doesn't matter
+- Think of a big problem, divide it into smaller ones, and it will saves you a lot of time
