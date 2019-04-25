@@ -17,7 +17,6 @@ Why taking this course?
 - You don't want to become A Programmer (Curious about them, or even work with programmers)
 - You aren't sure about being a programmer or not!
 
-
 ### What is a computer program?
 A computer program is a list of instructions that we write using a Programming Language the computer understands. (Like a recipe)
 
@@ -111,3 +110,41 @@ Why to use it?
 - Make progress & Fix a problem before actually writing any code
 - Programming Languages/Syntax doesn't matter
 - Think of a big problem, divide it into smaller ones, and it will saves you a lot of time
+
+## Part 3: Working with Data
+General info about the `Input/Inout` and `Data`.
+
+Naming Variables:
+- Rules:
+    - No Reserved Words/Keywords (i.e. `var true`!)
+    - No spaces
+    - Don't start with a Digit
+
+- Guidelines (Style):
+    - `camelCase` / use an `underscore`. But `camelCase` seems to be the convention!
+
+`Operator:` A shortcut to perform a specific task - one operation. Any operator that requires **two values** is called `Binary Operator` (i.e. +, -, *, /)
+
+`Assignment Operator =`: The shortcut to assign (set) a new value
+
+### Data Types
+When dealing with names/numbers, we don't think of them the same way. The `Age` is only positive, within small range. Your `Bank Balance` is a number as well, but it might be a floated number (i.e. $140.20)!
+
+Different Levels of Detail:
+- C++, Swift, Java: Specifiy the variable `datatype` upfront.
+- Python, JavaScript: More flexible, you can do it later or even don't do it at all.
+
+Data Types:
+- Numbers: Integer, Float
+- Boolean: True/False
+- Text: String (It's more complex for the computer, as it's not specified, how many characters it might contains, does it contains numbers? ... etc.)
+
+Programming languages offer `Built-In "Primitive" Types`
+
+`Constants`
+- Introduction
+- The convention is to use `ALL_CAPS` writing style
+
+Programming Languages are divided into 2 categories, in terms of dealing with datatypes:
+- Statically typed / Type Safe: Swift, C++ 
+- Dynamically typed: JavaScript, Python
